@@ -1,0 +1,16 @@
+Warren Street,Goodge Street 7mins
+Goodge Street,Tottenham Court Road 7mins
+Tottenham Court Road,Leicester Square 8mins 
+Leicester Square,Charing Cross 7mins
+Charing Cross,Embankment 3mins
+Embankment,Waterloo 6mins
+Elephant and Castle, Borough 13mins 
+Borough,London Bridge 9mins
+London Bridge,Monument 6mins
+Monument,Moorgate 9mins
+Moorgate,Old Street 9mins
+Old Street,Angel 20mins
+Angel,King's Cross St.Pancras 16mins
+King's Cross St.Pancras,Euston 12mins
+
+											

@@ -1,0 +1,6 @@
+﻿Baker Street, Bond Street 16mins
+Bond Street,Green Park 14mins 
+Green Park,Westminster 21mins
+Westminster,Waterloo 17mins
+Waterloo,Southwark 8mins 
+Southwark,London Bridge 19mins

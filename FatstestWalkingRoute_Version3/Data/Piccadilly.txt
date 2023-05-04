@@ -1,0 +1,11 @@
+﻿King's Cross St.Pancras,Russell Square 14mins
+Russell Square,Holborn 9mins
+Holborn,Covent Garden 8mins
+Covent Garden,Leicester Square 4mins 
+Leicester Square,Piccadilly Circus 6mins 
+Piccadilly Circus,Green Park 8mins
+Green Park,Hyde Park Corner 12mins
+Hyde Park Corner,Knightsbridge 7mins 
+Knightsbridge,South Kensington 17mins
+
+								

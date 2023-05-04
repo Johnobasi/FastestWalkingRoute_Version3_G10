@@ -1,0 +1,11 @@
+﻿Elephant and Castle,Lambeth North 18mins
+Lambeth North,Waterloo 9mins
+Waterloo,Embankment 6mins 
+Embankment,Charing Cross 3mins 
+Charing Cross,Piccadilly Circus 11mins 
+Piccadilly Circus,Oxford Circus 12mins 
+Oxford Circus,Regents Park 15mins 
+Regents Park,Baker Street 10mins
+Baker Street,Marylebone 6mins 
+Marylebone,	Edgeware Road (Bakerloo Line) 7mins
+Edgware Road (Bakerloo Line),Paddington 11mins

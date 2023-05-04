@@ -1,0 +1,12 @@
+﻿Notting Hill Gate, Queensway 8mins
+Queensway, Lancaster Gate 10mins
+Lancaster Gate,Marble Arch 15mins
+Marble Arch,Bond Street 7mins
+Bond Street, Oxford Circus 7mins
+Oxford Circus, Tottenham Court Road 9mins
+Tottenham Court Road, Holborn 10mins
+Holborn, Chancery Lane 8mins
+Chancery Lane, St. Paul's 14mins
+St. Paul's, Bank 9mins
+Bank, Liverpool Street 10mins
+

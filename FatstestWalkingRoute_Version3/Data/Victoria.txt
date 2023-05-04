@@ -1,0 +1,8 @@
+﻿Euston, Warren Street 9mins
+Warren Street,Oxford Circus 18mins
+Oxford Circusc,Green Park 15mins
+Green Park,Victoria 19mins
+Victoria,Pimlico 12mins
+Pimlico,Vauxhall 18mins
+
+

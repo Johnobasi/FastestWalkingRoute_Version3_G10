@@ -1,0 +1,9 @@
+Aldgate,Liverpool Street 9mins 
+Liverpool Street,Moorgate 6mins
+Moorgate,Barbican 10mins 
+Barbican,Farringdon 8mins 
+Farringdon,King Cross St Pancras 26mins 
+Kings Cross St Pancras,Euston Square 15mins 
+Euston Square,Great Portland Street 10mins
+Great Portland Street,	Baker Street 12mins
+Waterloo,Kennington 25mins

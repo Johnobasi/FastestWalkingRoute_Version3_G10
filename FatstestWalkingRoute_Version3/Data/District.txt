@@ -1,0 +1,19 @@
+Edgware Road (Circle Line), Paddington 10mins
+Paddington, Bayswater 17mins
+Bayswater , Notting Hill Gate 10mins
+Notting Hill Gate, High Street Kensington 13mins
+High Street Kensington, Earls Court 18mins
+Earls Court, Gloucester Road 12mins
+Gloucester Road, South Kensington 8mins
+South Kensington,Sloane Square 17mins
+Sloane Square, Victoria 13mins
+Victoria, St. James's Park 11mins
+St. James's Park, Westminster 11mins
+Westminster, Embankment 10mins
+Embankment, Temple 9mins
+Temple, Blackfriars 10mins
+Blackfriars, Mansion House 10mins
+Mansion House, Cannon Street 4mins
+Cannon Street, Monument 5mins
+Monument, Tower Hill 10mins
+Tower Hill, Aldgate East 10mins
